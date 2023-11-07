@@ -1,0 +1,59 @@
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; // Make sure it covers the full height of the viewport
+    font-family: 'Roboto', sans-serif;
+
+  }
+  
+  .register-card {
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    position: relative;
+    width: 300px; // Adjust the width as necessary
+  
+    .top-left-image,
+    .top-right-image {
+      position: absolute;
+      width: 50px; // Adjust the size as necessary
+      height: auto;
+    }
+  
+    .top-left-image {
+      top: 0;
+      left: 0;
+      transform: translate(-50%, -50%); // Adjust to place the image correctly
+    }
+  
+    .top-right-image {
+      top: 0;
+      right: 0;
+      transform: translate(50%, -50%); // Adjust to place the image correctly
+    }
+  
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    .form-group {
+      margin-bottom: 15px;
+  
+      input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box; // So the padding and border don't increase the width
+      }
+    }
+  
+    button {
+      width: 100%;
+      margin-top: 10px;
+    }
+  }
+  

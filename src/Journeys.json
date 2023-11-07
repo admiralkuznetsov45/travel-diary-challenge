@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Berseseraman di tanah Dewata",
+      "date": "29 July 2020",
+      "author": "Cipto",
+      "description": "Liburan di tahun baru 2020 keberangkatan saya menuju Pulau Dewata Bali. Sampai lah saya malam itu di Bali Airport menjujikan waktu jam 02.00, dan melanjutkan pejalanan yang menyenangkan...",
+      "imageUrl": "https://ibb.co/VNJHBw8",
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "title": "Besenandung di senja kuta",
+      "date": "30 March 2020",
+      "author": "Rizky",
+      "description": "Sang bagaskara sudah beberapa menit lalu berangkat ke peraduannya di ufuk sebelah barat. aku meninggalkan pantai kuta meski pengujung yang menikmati sunset masih belum berkurang, bahkan...",
+      "imageUrl": "path/to/image2.jpg",
+      "bookmark": true
+    },
+    {
+      "id": 3,
+      "title": "48 hours in... London",
+      "date": "28 April 2020",
+      "author": "On-on",
+      "description": "Let’s start at the very beginning. The Tower of London (St Katharine’s & Wapping, 020 3166 6000) takes you back to the London of William the Conqueror – it was around 1078 when he began work on...",
+      "imageUrl": "path/to/image3.jpg",
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "title": "The Langham, Sydney",
+      "date": "17 October 2020",
+      "author": "Veb",
+      "description": "After landing at the airport (coming from the sunshine coast) we were a little lost on how to work with the public transport. We soon realised that easily enough the train had a straight-line route to where we were...",
+      "imageUrl": "",
+      "bookmark": false
+    },
+    {
+        "id": 5,
+        "title": "Adventure With A Stranger in...",
+        "date": "05 July 2020",
+        "author": "Berlin",
+        "description": "One of my best travel experience stories was when I went on a romantic road trip with a guy, who I only met once for 5 minutes at a party in the South of France...",
+        "imageUrl": "assets/adventure_with_stranger.png",
+        "bookmark": true
+      },
+      {
+        "id": 6,
+        "title": "Beautiful Travel Friendship",
+        "date": "06 October 2020",
+        "author": "Chronic",
+        "description": "I've been in Playa del Carmen, Mexico for a few weeks now for my divemaster training. I spent every day in the water with customers and my instructor. I loved it! We shared the boat with another ...",
+        "imageUrl": "assets/beautiful_travel_friendship.png",
+        "bookmark": true
+      },
+      {
+        "id": 7,
+        "title": "My Birthday In A Private Castle...",
+        "date": "28 April 2020",
+        "author": "Chris",
+        "description": "A travel story I want to share is from Czechia. Imagine exiting a train in the middle of the rural Czech countryside somewhere 90 minutes east of Prague, dragging your bag down a lonely dirt road—with ...",
+        "imageUrl": "assets/birthday_private_castle.png",
+        "bookmark": true
+      },
+      {
+        "id": 8,
+        "title": "Meeting The President Of Ecuador...",
+        "date": "17 July 2020",
+        "author": "Dane",
+        "description": "My best travel story is from a time I was in a small city called Salinas on the south coast of Ecuador. I was just hanging with a local friend and surfing every day before I started to head ...",
+        "imageUrl": "assets/meeting_president_ecuador.png",
+        "bookmark": true
+      }  
+]
+  

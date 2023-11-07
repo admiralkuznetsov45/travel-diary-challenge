@@ -1,0 +1,49 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  padding: 10px 20px;
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+.navbar .custom-button {
+  font-weight: bold;
+  margin: 0 8px;
+  color: white;
+  text-transform: none;
+  padding: 10px 20px;
+  min-width: 120px;
+}
+.navbar .custom-button.outlined {
+  border: 2px solid white;
+  background-color: transparent;
+}
+.navbar .custom-button.outlined:hover {
+  opacity: 0.9;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.navbar .custom-button.contained {
+  background-color: #007BFF;
+}
+.navbar .custom-button.contained:hover {
+  background-color: #0062cc;
+}
+.navbar-logo img {
+  height: 50px;
+}
+.navbar-link {
+  text-decoration: none;
+  margin-left: 20px;
+  color: #000;
+  font-size: 16px;
+  padding: 5px 10px;
+  border: 2px solid transparent;
+}
+.navbar-link:hover {
+  border-color: #000;
+}/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px 20px;
+  background-color: transparent; // Make the background transparent
+  position: fixed; // Fix the navbar to the top of the viewport
+  top: 0; // Position at the top
+  left: 0; // Align to the left
+  right: 0; // Stretch across the entire top width
+  z-index: 1000; // Ensure it sits above other content
+
+  .custom-button {
+    font-weight: bold;
+    margin: 0 8px;
+    color: white; // Default color for text
+    text-transform: none; // If you want to preserve original text casing
+    padding: 10px 20px; // Increase padding to make button wider
+    min-width: 120px; // Set a minimum width for the buttons
+
+    &.outlined {
+      border: 2px solid white;
+      background-color: transparent;
+      
+      &:hover {
+        opacity: 0.9;
+        background-color: rgba(255, 255, 255, 0.1); // Optional: slight background on hover for outlined
+      }
+    }
+    
+    &.contained {
+      background-color: #007BFF; // Blue background for the contained button
+      
+      &:hover {
+        background-color: darken(#007BFF, 10%); // Slightly darker on hover
+      }
+    }
+  }
+
+  &-logo {
+    img {
+      height: 50px;
+    }
+  }
+
+  &-links {
+    // Adjust spacing and styling as needed
+  }
+
+  &-link {
+    text-decoration: none;
+    margin-left: 20px;
+    color: #000;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 2px solid transparent;
+
+    &:hover {
+      border-color: #000;
+    }
+  }
+}

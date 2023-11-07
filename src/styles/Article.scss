@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,700;9..40,900&family=Manrope:wght@700;800&family=Nunito+Sans:opsz,wght@6..12,700&family=Roboto:ital,wght@0,300;0,400;1,100;1,300&display=swap');
+
+
+.article-container {
+  background: #fff;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+
+  
+    .article-header {
+        padding: 20px;
+        background: #ececec; // A light gray background for the header
+        position: relative; // Set the position to relative to use absolute positioning inside
+    
+  
+      h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+  
+      .article-metadata {
+        font-size: 14px;
+        color: #777;
+        margin-bottom: 20px;
+        
+        .article-date {
+            display: block; // Or inline-block depending on your design
+        }
+
+        .article-author {
+            position: absolute; // Position the author absolutely
+            top: 20px; // Adjust the top as needed
+            right: 20px; // Adjust the right as needed
+            display: block;
+        }
+      }
+      
+      .article-image-container {
+        // Your styles for the image container
+      }
+    }
+  
+    .article-content {
+      padding: 20px;
+      // Your content styles
+    }
+  }
+  
+  @media screen and (max-width: 680px) {
+    .article-container {
+      .article-header {
+        padding: 15px;
+  
+        h1 {
+          font-size: 18px; // Smaller font size on smaller screens
+        }
+  
+        .article-metadata {
+          font-size: 12px;
+  
+          .article-author {
+            // Adjust position for smaller screens
+            top: 10px;
+            right: 10px;
+          }
+        }
+  
+        .article-image-container {
+          max-width: 100%; // Ensures the container doesn't exceed the width of its parent
+          max-height: 340px; // Adjust as needed to fit your design requirements
+          overflow: hidden; // Prevents content from spilling outside the container
+          img {
+            max-width: 100%; // Makes the image responsive within the container
+            max-height: 100%; // Ensures the image does not exceed the container's height
+            object-fit: cover; // Covers the area without stretching the image
+          }
+        }
+      }
+  
+      .article-content {
+        padding: 15px;
+      }
+    }
+  }
+  
+  

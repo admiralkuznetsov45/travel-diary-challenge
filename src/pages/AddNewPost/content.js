@@ -1,0 +1,4 @@
+// Action Types
+export const ADD_NEW_POST_REQUEST = 'ADD_NEW_POST_REQUEST';
+export const ADD_NEW_POST_SUCCESS = 'ADD_NEW_POST_SUCCESS';
+export const ADD_NEW_POST_FAILURE = 'ADD_NEW_POST_FAILURE';

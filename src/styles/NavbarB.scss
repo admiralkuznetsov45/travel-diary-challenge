@@ -1,0 +1,53 @@
+.navbarB {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+    
+    .navbarB-logo img {
+      height: 50px; // Adjust the size as needed
+      margin-left: 30px;
+    }
+  
+    .navbarB-profile {
+      position: relative;
+      img {
+        height: 50px; // Adjust the size as needed
+        cursor: pointer;
+      }
+      
+      .navbarB-dropdown {
+        position: absolute;
+        top: 100%; // directly below the profile image
+        right: 0;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        width: auto;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        z-index: 1000; // above other items
+        display: flex;
+        flex-direction: column;
+  
+        .dropdown-item {
+          padding: 10px 15px;
+          display: flex;
+          align-items: center;
+          text-decoration: none;
+          color: #333;
+  
+          &:hover {
+            background-color: #f7f7f7;
+          }
+  
+          svg {
+            margin-right: 10px;
+          }
+        }
+      }
+    }
+  }
+  

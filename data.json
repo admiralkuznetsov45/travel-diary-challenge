@@ -1,0 +1,193 @@
+{
+  "user": [
+    {
+      "fullName": "Fadhil",
+      "email": "fadhil@gmail.com",
+      "password": "test12234",
+      "phone": "08111095914",
+      "id": 2,
+      "isloggedIn": true
+    },
+    {
+      "fullName": "Muhammad Daffa ZW",
+      "email": "andafsul4@gmail.com",
+      "password": "test123",
+      "phone": "08111098917",
+      "id": 3
+    },
+    {
+      "fullName": "Muhammad Daffa ZW",
+      "email": "andafsul3@gmail.com",
+      "password": "test123",
+      "phone": "08111098917",
+      "id": 4
+    },
+    {
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "phone": "test",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Berseseraman di tanah Dewata",
+      "date": "29 July 2020",
+      "author": "Cipto",
+      "description": "Liburan di tahun baru 2020 keberangkatan saya menuju Pulau Dewata Bali. Sampai lah saya malam itu di Bali Airport menjujukan waktu jam 02.00, dan melanjutkan pejalanan yang menyenangkan...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "title": "Besenandung di senja kuta",
+      "date": "30 March 2020",
+      "author": "Rizky",
+      "description": "Sang bagaskara sudah beberapa menit lalu berangkat ke peraduannya di ufuk sebelah barat. aku meninggalkan pantai kuta meski pengujung yang menikmati sunset masih belum berkurang, bahkan...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": true
+    },
+    {
+      "id": 3,
+      "title": "48 hours in... London",
+      "date": "28 April 2020",
+      "author": "On-on",
+      "description": "Let’s start at the very beginning. The Tower of London (St Katharine’s & Wapping, 020 3166 6000) takes you back to the London of William the Conqueror – it was around 1078 when he began work on...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "title": "The Langham, Sydney",
+      "date": "17 October 2020",
+      "author": "Veb",
+      "description": "After landing at the airport (coming from the sunshine coast) we were a little lost on how to work with the public transport. We soon realised that easily enough the train had a straight-line route to where we were...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": false
+    },
+    {
+      "id": 5,
+      "title": "Adventure With A Stranger in...",
+      "date": "05 July 2020",
+      "author": "Berlin",
+      "description": "One of my best travel experience stories was when I went on a romantic road trip with a guy, who I only met once for 5 minutes at a party in the South of France...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": true
+    },
+    {
+      "id": 6,
+      "title": "Beautiful Travel Friendship",
+      "date": "06 October 2020",
+      "author": "Chronic",
+      "description": "I've been in Playa del Carmen, Mexico for a few weeks now for my divemaster training. I spent every day in the water with customers and my instructor. I loved it! We shared the boat with another ...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": true
+    },
+    {
+      "id": 7,
+      "title": "My Birthday In A Private Castle...",
+      "date": "28 April 2020",
+      "author": "Fadhil",
+      "description": "A travel story I want to share is from Czechia. Imagine exiting a train in the middle of the rural Czech countryside somewhere 90 minutes east of Prague, dragging your bag down a lonely dirt road—with ...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": true
+    },
+    {
+      "id": 8,
+      "title": "Meeting The President Of Ecuador...",
+      "date": "17 July 2020",
+      "author": "Fadhil",
+      "description": "My best travel story is from a time I was in a small city called Salinas on the south coast of Ecuador. I was just hanging with a local friend and surfing every day before I started to head ...",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "bookmark": true
+    },
+    {
+      "title": "test sate ayam",
+      "content": "<p>Sate ayam pak djono enak sekali</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 10
+    },
+    {
+      "title": "test",
+      "content": "<p>teet</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 11
+    },
+    {
+      "title": "test",
+      "content": "<p>teet</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 12
+    },
+    {
+      "title": "test",
+      "content": "<p>teet</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 13
+    },
+    {
+      "title": "test",
+      "content": "<p>test</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 14
+    },
+    {
+      "title": "Pak Djono",
+      "content": "<p><strong>Ini Judul</strong></p><p><br></p><p>Ini Ibu Budi</p>",
+      "shortDescription": "test",
+      "imageUrl": "https://media.istockphoto.com/id/653953140/id/foto/candi-hindu-di-bali.jpg?s=612x612&w=0&k=20&c=RHnKo1W5qOArOWwR3BHgd2GiAquTB0FGMouoEFlIXT4=",
+      "id": 15
+    },
+    {
+      "title": "Lorem Ipsum 22",
+      "content": "<p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu nisi, congue eu felis nec, posuere aliquet neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi et mi vel urna placerat sagittis. Proin sagittis mi ex, rutrum tincidunt lacus ultricies ac. Sed mattis neque vel velit facilisis fringilla. Ut risus metus, consequat ut venenatis non, ullamcorper vitae nisi. Phasellus vestibulum nisi eu feugiat tincidunt. Sed vitae gravida est, in convallis dolor. Ut dapibus, metus id fringilla porttitor, ipsum lorem ultricies nisl, nec tincidunt felis dui a leo.</p><p class=\"ql-align-justify\">Donec fermentum diam non enim facilisis, sit amet vulputate leo accumsan. Aenean sed hendrerit magna. Ut auctor, sapien id congue vehicula, risus ipsum sodales quam, porta tempor felis risus mattis felis. Donec purus nulla, iaculis vitae lectus sed, tincidunt blandit ligula. Praesent et dapibus lectus. Proin auctor egestas odio id egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam id ex et lectus pellentesque feugiat eget eget turpis. Nam porttitor tortor sit amet urna cursus, nec feugiat mauris porttitor. Aliquam et turpis nec lectus elementum congue vel id elit. Morbi et interdum felis. Mauris bibendum mollis ultricies.</p><p class=\"ql-align-justify\">Curabitur at tortor rhoncus, egestas sapien id, lobortis sapien. Mauris non justo a risus tincidunt pretium. Suspendisse urna nulla, pulvinar eu consectetur eu, maximus eu orci. Donec accumsan ipsum at orci malesuada convallis vel quis libero. Aliquam nisi elit, rutrum at nunc in, ultrices iaculis dui. Quisque id risus est. Proin commodo orci vel purus porta condimentum. Nunc molestie elementum lorem vitae venenatis. Vestibulum non fermentum massa. Fusce elementum iaculis imperdiet. Fusce sit amet risus in sapien euismod scelerisque. In eget suscipit ipsum.</p><p class=\"ql-align-justify\">Aenean tincidunt nibh eget nulla dictum placerat. Quisque mattis venenatis facilisis. Quisque pharetra tellus mattis sem porta luctus. Sed tincidunt quam in condimentum imperdiet. Sed semper imperdiet nisl, ut tincidunt nulla sagittis eget. Vivamus felis felis, mollis vel molestie sit amet, dictum nec nunc. Nam consectetur tempor varius. Donec dignissim, sapien vel porttitor tincidunt, dolor sem interdum felis, pharetra varius urna orci placerat tellus. Nunc porta ipsum libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer pellentesque euismod felis, quis luctus nisi bibendum ac. In nisi enim, posuere sit amet arcu at, mattis fringilla metus. Maecenas imperdiet mattis ornare. Cras et mi mi.</p><p><br></p>",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu nisi, congue eu felis nec, posuere aliquet neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ",
+      "imageUrl": "https://media.cntraveller.com/photos/63eb5a36b515236831979f64/16:9/w_1920%2Cc_limit/GettyImages-1145042281.jpeg",
+      "timestamp": 1699346345328,
+      "id": 17
+    },
+    {
+      "title": "test 2",
+      "content": "<p>test 222</p>",
+      "description": "test 22",
+      "imageUrl": "test 222",
+      "date": "2023-11-07T08:51:17.234Z",
+      "author": "Fadhil",
+      "id": 19
+    },
+    {
+      "title": "test",
+      "content": "<p>test <strong>test <em>test <u>test </u></em></strong></p>",
+      "description": "test",
+      "imageUrl": "test",
+      "date": "2023-11-07T13:24:44.151Z",
+      "author": "Muhammad Daffa ZW",
+      "id": 20
+    },
+    {
+      "title": "Lorem Ipsum Test Baru Dawe",
+      "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p><br></p><p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p><br></p><p><br></p><p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popula",
+      "imageUrl": "https://images.cloudflareapps.com/qt8b7NO6QRWngcylQKPa_background-5.",
+      "date": "2023-11-07T13:29:51.170Z",
+      "author": "Muhammad Daffa ZW",
+      "id": 21
+    },
+    {
+      "title": "test 1 2 3",
+      "content": "<p>sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss <strong>ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss ssssss<em> sdw</em></strong></p>",
+      "description": "Ini merupakan kota jakarta kota ibukota",
+      "imageUrl": "LDuTCDWPLowFO4SHd0cO_301PX3UQm857Jtf0LLBIB4",
+      "date": "2023-11-07T13:48:42.065Z",
+      "author": "Muhammad Daffa ZW",
+      "id": 22
+    }
+  ]
+}
